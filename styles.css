@@ -375,7 +375,6 @@
             top: 50%;
             left: 50%;
             font-size: 45px;
-            transform: translate(-30%, -30%)
         }
 
         .lp_content_wrapper .instruction_close {
